@@ -24,7 +24,7 @@ Kevin - Get in touch with Wamberto and get 10 Pis form him
 
 What is available, for cluster control software to put on the slave image.
 
-* [Clusrer Software](ClusterSoftware) - Cluster Software
+* [Cluster Software](ClusterSoftware) - Cluster Software
 
 # Hardware
 
