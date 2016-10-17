@@ -1,11 +1,13 @@
 # raspberry_cluster
 The Raspberry Pi Cluster Computer Organisation
 
-The Compuers are B+ as far as i know.
+The Compuers are Verson 1.2 B as far as I know.
 
 Kevin - Get in touch with Wamberto and get 10 Pis form him
 
 # Software
+
+* [Software Development](softwaredev.md) - We may need to compile software for the PI's
 
 ##  Controller Image
 
@@ -35,6 +37,11 @@ What is available, for cluster control software to put on the slave image.
 * 
 
 # Hardware
+
+
+
+The Broadcom BCM2835 SoC used in the first generation Raspberry Pi is somewhat equivalent to the chip used in first generation smartphones (its CPU is an older ARMv6 architecture) which includes a 700 MHz ARM1176JZF-S processor, VideoCore IV graphics processing unit (GPU) and RAM. It has a level 1 (L1) cache of 16 KB and a level 2 (L2) cache of 128 KB. The level 2 cache is used primarily by the GPU. The SoC is stacked underneath the glued to RAM chip, so only its edge is visible.
+
 
 * *Kevin* - 10 port USB Hub
 * Power - cables for the PIs
