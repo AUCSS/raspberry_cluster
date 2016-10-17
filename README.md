@@ -1,9 +1,9 @@
 # raspberry_cluster
 The Raspberry Pi Cluster Computer Organisation
 
-The Compuers are Verson 1.2 B as far as I know.
+The Pi's are Verson 1.2 B.
+https://en.wikipedia.org/wiki/Raspberry_Pi
 
-Kevin - Get in touch with Wamberto and get 10 Pis form him
 
 # Software
 
@@ -21,8 +21,11 @@ Kevin - Get in touch with Wamberto and get 10 Pis form him
 
 ## Slave Image
 
-* Can they be flashed to boot over ethernet PXE
-* Get on the network and download the image via TFTP and boot.
+
+* Can they be setup to boot over ethernet PXE and TFTP:
+    * https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/net.md
+    * https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/net_tutorial.md
+
 
 
 ## Open Source Cluster software
